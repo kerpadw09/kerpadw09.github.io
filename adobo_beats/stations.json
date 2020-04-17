@@ -1,84 +1,82 @@
-{
-  "data": [
-    {
-      "name": "FM 1 - 87.5",
-      "link": "http://122.53.138.32:8000/dzrm.mp3",
-      "image": "https://i.imgur.com/raIQB9h.png"
-    },
-    {
-      "name": "Wave - 89.1",
-      "link": "http://node-34.zeno.fm/snugpr3shpeuv?rj-ttl=5&rj-tok=AAABcYKcYywAQJUUNIB-TQmQrw",
-      "image": "https://i.imgur.com/Hvzssyk.png"
-    },
-    {
-      "name": "Magic - 89.9",
-      "link": "http://203.82.37.242:8050/mla899fm",
-      "image": "https://i.imgur.com/B3MifmY.png"
-    },
-    {
-      "name": "Love Radio - 90.7",
-      "link": "http://hyades.shoutca.st:8146/;",
-      "image": "https://i.imgur.com/l3OQYL5.png"
-    },
-    {
-      "name": "Win Radio - 91.5",
-      "link": "https://streamingv2.shoutcast.com/915-win-radio-manila",
-      "image": "https://i.imgur.com/t5tzNJo.png"
-    },
-    {
-      "name": "Monster RX - 93.1",
-      "link": "http://icecast.eradioportal.com:8000/monsterrx",
-      "image": "https://i.imgur.com/WSX11A6.png"
-    },
-    {
-      "name": "iFM - 93.9",
-      "link": "http://curiosity.shoutca.st:8098/stream",
-      "image": "https://i.imgur.com/obIf6kM.png"
-    },
-    {
-      "name": "Mellow - 94.7",
-      "link": "http://s3.free-shoutcast.com:18342/stream/1/",
-      "image": "https://i.imgur.com/UasXDMV.png"
-    },
-    {
-      "name": "Easy Rock - 96.3",
-      "link": "https://jegala00.radioca.st/stream/1/",
-      "image": "https://i.imgur.com/HlhG2sL.png"
-    },
-    {
-      "name": "Barangay LS - 97.1",
-      "link": "http://curiosity.shoutca.st:8098/stream/;",
-      "image": "https://i.imgur.com/9MGPXkO.png"
-    },
-    {
-      "name": "Play FM - 99.5",
-      "link": "http://node-09.zeno.fm/ktsuntffnpeuv?rj-ttl=5&rj-tok=AAABcYbjz70Ahh0v9wUSWsUI1Q",
-      "image": "https://i.imgur.com/worA0z5.png"
-    },
-    {
-      "name": "Yes - 101.1",
-      "link": "http://37.59.28.208:8500/;",
-      "image": "https://i.imgur.com/K2QFNRL.png"
-    },
-    {
-      "name": "Star FM - 102.7",
-      "link": "http://node-26.zeno.fm/n51d54pctrquv?rj-ttl=5&rj-tok=AAABcYbstU4AkgrFpY6Bayc6Pg",
-      "image": "https://i.imgur.com/tMmtKwv.png"
-    },
-    {
-      "name": "K-Lite - 103.5",
-      "link": "https://streamingv2.shoutcast.com/1035Klite",
-      "image": "https://i.imgur.com/JJtZVxB.png"
-    },
-    {
-      "name": "Energy FM - 106.7",
-      "link": "http://ph-icecast.eradioportal.com:8000/energyfm_manila",
-      "image": "https://i.imgur.com/wJEUDz0.png"
-    },
-    {
-      "name": "Wish FM - 107.5",
-      "link": "https://untv.mmdlive.lldns.net/untv/755d0553cdee4631ae561a3897874d51/chunklist_b64000.m3u8",
-      "image": "https://i.imgur.com/n39oLVl.png"
-    }
-  ]
-}
+[
+  {
+    "name": "FM 1 - 87.5",
+    "link": "http://122.53.138.32:8000/dzrm.mp3",
+    "image": "https://i.imgur.com/raIQB9h.png"
+  },
+  {
+    "name": "Wave - 89.1",
+    "link": "http://node-34.zeno.fm/snugpr3shpeuv?rj-ttl=5&rj-tok=AAABcYKcYywAQJUUNIB-TQmQrw",
+    "image": "https://i.imgur.com/Hvzssyk.png"
+  },
+  {
+    "name": "Magic - 89.9",
+    "link": "http://203.82.37.242:8050/mla899fm",
+    "image": "https://i.imgur.com/B3MifmY.png"
+  },
+  {
+    "name": "Love Radio - 90.7",
+    "link": "http://hyades.shoutca.st:8146/;",
+    "image": "https://i.imgur.com/l3OQYL5.png"
+  },
+  {
+    "name": "Win Radio - 91.5",
+    "link": "https://streamingv2.shoutcast.com/915-win-radio-manila",
+    "image": "https://i.imgur.com/t5tzNJo.png"
+  },
+  {
+    "name": "Monster RX - 93.1",
+    "link": "http://icecast.eradioportal.com:8000/monsterrx",
+    "image": "https://i.imgur.com/WSX11A6.png"
+  },
+  {
+    "name": "iFM - 93.9",
+    "link": "http://curiosity.shoutca.st:8098/stream",
+    "image": "https://i.imgur.com/obIf6kM.png"
+  },
+  {
+    "name": "Mellow - 94.7",
+    "link": "http://s3.free-shoutcast.com:18342/stream/1/",
+    "image": "https://i.imgur.com/UasXDMV.png"
+  },
+  {
+    "name": "Easy Rock - 96.3",
+    "link": "https://jegala00.radioca.st/stream/1/",
+    "image": "https://i.imgur.com/HlhG2sL.png"
+  },
+  {
+    "name": "Barangay LS - 97.1",
+    "link": "http://curiosity.shoutca.st:8098/stream/;",
+    "image": "https://i.imgur.com/9MGPXkO.png"
+  },
+  {
+    "name": "Play FM - 99.5",
+    "link": "http://node-09.zeno.fm/ktsuntffnpeuv?rj-ttl=5&rj-tok=AAABcYbjz70Ahh0v9wUSWsUI1Q",
+    "image": "https://i.imgur.com/worA0z5.png"
+  },
+  {
+    "name": "Yes - 101.1",
+    "link": "http://37.59.28.208:8500/;",
+    "image": "https://i.imgur.com/K2QFNRL.png"
+  },
+  {
+    "name": "Star FM - 102.7",
+    "link": "http://node-26.zeno.fm/n51d54pctrquv?rj-ttl=5&rj-tok=AAABcYbstU4AkgrFpY6Bayc6Pg",
+    "image": "https://i.imgur.com/tMmtKwv.png"
+  },
+  {
+    "name": "K-Lite - 103.5",
+    "link": "https://streamingv2.shoutcast.com/1035Klite",
+    "image": "https://i.imgur.com/JJtZVxB.png"
+  },
+  {
+    "name": "Energy FM - 106.7",
+    "link": "http://ph-icecast.eradioportal.com:8000/energyfm_manila",
+    "image": "https://i.imgur.com/wJEUDz0.png"
+  },
+  {
+    "name": "Wish FM - 107.5",
+    "link": "https://untv.mmdlive.lldns.net/untv/755d0553cdee4631ae561a3897874d51/chunklist_b64000.m3u8",
+    "image": "https://i.imgur.com/n39oLVl.png"
+  }
+]
