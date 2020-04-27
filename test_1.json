@@ -1,74 +1,1306 @@
 {
   "data": {
+    "kind": "youtube#videoListResponse",
+    "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8\/cnLD5Du2bg0_RBkomvn54cMXnHk\"",
+    "nextPageToken": "CAoQAA",
+    "pageInfo": {
+      "totalResults": 200,
+      "resultsPerPage": 10
+    },
     "items": [
       {
-        "contentDetails": {
-          "id": "je_R3gEtDbw"
-        },
+        "kind": "youtube#video",
+        "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8\/v8tXhawGOA3nt6_PkurABATJnD4\"",
+        "id": "mCobSW8aYK8",
         "snippet": {
-          "channelTitle": "Lilifilm Official",
-          "title": "LILI's FILM #3 - LISA Dance Performance Video",
+          "publishedAt": "2020-04-25T22:05:57.000Z",
+          "channelId": "UCKQo5ORhXZTs48SPk8tcAeQ",
+          "title": "North Korea dictator Kim Jong-un dead at 36",
+          "description": "North Korea dictator Kim Jong-un dead at 36",
           "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/mCobSW8aYK8\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
             "medium": {
-              "url": "https://i.ytimg.com/vi/je_R3gEtDbw/mqdefault.jpg"
+              "url": "https:\/\/i.ytimg.com\/vi\/mCobSW8aYK8\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/mCobSW8aYK8\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/mCobSW8aYK8\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/mCobSW8aYK8\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
-          }
+          },
+          "channelTitle": "KETKnbc",
+          "tags": [
+            "video",
+            "top video",
+            "top stories",
+            "world news",
+            "north korea"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "North Korea dictator Kim Jong-un dead at 36",
+            "description": "North Korea dictator Kim Jong-un dead at 36"
+          },
+          "defaultAudioLanguage": "en"
         },
-        "profilethumbnail": {
-          "default": {
-            "url": "https://yt3.ggpht.com/a/AATXAJx6I2sfiTy2MzzZ3n8_Uq6uCX5TlLQ6nSrpsQ=s88-c-k-c0xffffffff-no-rj-mo"
-          }
+        "contentDetails": {
+          "duration": "PT31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "projection": "rectangular"
         },
-        "published_at": "2020-04-20T09:00:15.000Z",
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": false,
+          "madeForKids": false
+        },
         "statistics": {
-          "viewCount": "14510473"
-        }
+          "viewCount": "2059245",
+          "likeCount": "14577",
+          "dislikeCount": "2318",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        },
+        "player": {
+          "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"\/\/www.youtube.com\/embed\/mCobSW8aYK8\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>"
+        },
+        "channel": [
+          {
+            "id": "UCKQo5ORhXZTs48SPk8tcAeQ",
+            "title": "KETKnbc",
+            "description": "KETK NBC has been with East Texas since March 9, 1987. Since then we still have one purpose, you, East Texas. We love what we do and our community. We are dedicated to getting you your local news, weather, sports and information that matters to you. Whether it be over the air on KETK-TV 56.1, Cable, Dish, www.EastTexasMatters.com, our KETK NBC mobile app or on social media.",
+            "published_at": "2011-05-26T19:02:34.000Z",
+            "profilethumbnail": {
+              "default": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJyWbYlTKo2XYCZlXf2Jl7ILrd6DIWPwtZguAA=s88-c-k-c0xffffffff-no-rj-mo",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJyWbYlTKo2XYCZlXf2Jl7ILrd6DIWPwtZguAA=s240-c-k-c0xffffffff-no-rj-mo",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJyWbYlTKo2XYCZlXf2Jl7ILrd6DIWPwtZguAA=s800-c-k-c0xffffffff-no-rj-mo",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "profileColor": "#000000",
+            "videoCount": "10070",
+            "viewCount": "10035116",
+            "subscriberCount": "16300"
+          }
+        ]
       },
       {
-        "contentDetails": {
-          "id": "je_R3gEtDbw"
-        },
+        "kind": "youtube#video",
+        "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8\/m9dm8eufw98IUQ0IajyRItismmM\"",
+        "id": "lKh8Wk_NByI",
         "snippet": {
-          "channelTitle": "Lilifilm Official",
-          "title": "LILI's FILM #3 - LISA Dance Performance Video",
+          "publishedAt": "2020-04-22T12:17:52.000Z",
+          "channelId": "UCstEtN0pgOmCf02EdXsGChw",
+          "title": "Daniel, ginulat ang lahat sa kanyang pagbabalik | Walang Hanggan",
+          "description": "Daniel's (Coco Martin) comeback worries Margaret (Helen Gamboa) and becomes paranoid that Virginia (Susan Roces) might reveal the truth to everyone.\n\nSubscribe to the ABS-CBN Entertainment channel!\nhttp:\/\/bit.ly\/ABS-CBNEntertainment\n\nVisit our official website! \nhttp:\/\/entertainment.abs-cbn.com\nhttp:\/\/www.push.com.ph\n\nFacebook:\u00a0http:\/\/www.facebook.com\/ABSCBNnetwork\nTwitter:\u00a0https:\/\/twitter.com\/ABSCBN\u00a0\nInstagram:\u00a0http:\/\/instagram.com\/abscbn\n\n#WalangHanggan\n#ABSCBNWalangHanggan\n#WalangHangganEpisode21",
           "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/lKh8Wk_NByI\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
             "medium": {
-              "url": "https://i.ytimg.com/vi/je_R3gEtDbw/mqdefault.jpg"
+              "url": "https:\/\/i.ytimg.com\/vi\/lKh8Wk_NByI\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/lKh8Wk_NByI\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/lKh8Wk_NByI\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/lKh8Wk_NByI\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
-          }
+          },
+          "channelTitle": "ABS-CBN Entertainment",
+          "tags": [
+            "ABS-CBN",
+            "ABS-CBN Online",
+            "Philippines",
+            "Entertainment",
+            "ABS-CBN Teleserye",
+            "Walang Hanggan ABSCBN",
+            "Classic Drama",
+            "MeloDrama",
+            "TV series",
+            "Dreamscape Entertainment",
+            "April 22 2020",
+            "20200422online",
+            "YT0psRisa",
+            "WALANG HANGGAN",
+            "#WalangHanggan",
+            "Walang Hanggan April 22 2020",
+            "Walang Hanggan April 22 2020 episode",
+            "Walang Hanggan HIGHLIGHTS",
+            "Walang Hanggan TELESERYE",
+            "Julia Montes",
+            "Coco Martin",
+            "Dawn Zulueta",
+            "Richard Gomez",
+            "Richard & Dawn",
+            "Coco Martin and Julia Montes Teleserye",
+            "Julia & Coco Teleserye"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Daniel, ginulat ang lahat sa kanyang pagbabalik | Walang Hanggan",
+            "description": "Daniel's (Coco Martin) comeback worries Margaret (Helen Gamboa) and becomes paranoid that Virginia (Susan Roces) might reveal the truth to everyone.\n\nSubscribe to the ABS-CBN Entertainment channel!\nhttp:\/\/bit.ly\/ABS-CBNEntertainment\n\nVisit our official website! \nhttp:\/\/entertainment.abs-cbn.com\nhttp:\/\/www.push.com.ph\n\nFacebook:\u00a0http:\/\/www.facebook.com\/ABSCBNnetwork\nTwitter:\u00a0https:\/\/twitter.com\/ABSCBN\u00a0\nInstagram:\u00a0http:\/\/instagram.com\/abscbn\n\n#WalangHanggan\n#ABSCBNWalangHanggan\n#WalangHangganEpisode21"
+          },
+          "defaultAudioLanguage": "en"
         },
-        "profilethumbnail": {
-          "default": {
-            "url": "https://yt3.ggpht.com/a/AATXAJx6I2sfiTy2MzzZ3n8_Uq6uCX5TlLQ6nSrpsQ=s88-c-k-c0xffffffff-no-rj-mo"
-          }
+        "contentDetails": {
+          "duration": "PT9M33S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "projection": "rectangular"
         },
-        "published_at": "2020-04-20T09:00:15.000Z",
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false
+        },
         "statistics": {
-          "viewCount": "14510473"
-        }
+          "viewCount": "912942",
+          "likeCount": "7583",
+          "dislikeCount": "643",
+          "favoriteCount": "0",
+          "commentCount": "457"
+        },
+        "player": {
+          "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"\/\/www.youtube.com\/embed\/lKh8Wk_NByI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>"
+        },
+        "channel": [
+          {
+            "id": "UCstEtN0pgOmCf02EdXsGChw",
+            "title": "ABS-CBN Entertainment",
+            "description": "Watch your favorite entertainment shows from the leading television network!\n\nSubscribe to ABS-CBN Entertainment channel! - http:\/\/bit.ly\/ABS-CBNEntertainment\n\nVisit our official websites!\nhttp:\/\/entertainment.abs-cbn.com\/tv\/home\nhttp:\/\/www.push.com.ph\n\nFacebook: http:\/\/www.facebook.com\/ABSCBNnetwork\n\nTwitter: \nhttp:\/\/twitter.com\/ABSCBN\nhttp:\/\/twitter.com\/abscbndotcom\nInstagram: http:\/\/instagram.com\/abscbnonline",
+            "published_at": "2008-07-16T02:11:59.000Z",
+            "profilethumbnail": {
+              "default": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJyysdvKISacN3igRV8263Fh9mit87UtLeTung=s88-c-k-c0xffffffff-no-rj-mo",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJyysdvKISacN3igRV8263Fh9mit87UtLeTung=s240-c-k-c0xffffffff-no-rj-mo",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJyysdvKISacN3igRV8263Fh9mit87UtLeTung=s800-c-k-c0xffffffff-no-rj-mo",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "profileColor": "#000000",
+            "videoCount": "139390",
+            "viewCount": "35433721879",
+            "subscriberCount": "26600000"
+          }
+        ]
       },
       {
-        "contentDetails": {
-          "id": "je_R3gEtDbw"
-        },
+        "kind": "youtube#video",
+        "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8\/8EJ37PXZZV0upIhX1d7hFVbxwGc\"",
+        "id": "M_fA6w5YNTw",
         "snippet": {
-          "channelTitle": "Lilifilm Official",
-          "title": "LILI's FILM #3 - LISA Dance Performance Video",
+          "publishedAt": "2020-04-24T13:00:39.000Z",
+          "channelId": "UCxhygwqQ1ZMoBGQM2yEcNug",
+          "title": "ANG VIRAL VIDEO NG MGA PULIS AT NG ISANG EX-ARMY. IDOL RAFFY, INAKSYUNAN!",
+          "description": "Para sa PART 2 at 3, puntahan ang mga links na ito:\nPART 2: https:\/\/youtu.be\/ehdcPGqNfeg\nPART 3: https:\/\/youtu.be\/KxpCB5FqZas\n\n#raffytulfoinaction\nTikTok: http:\/\/bit.ly\/RaffyTulfoOfficialTikTok\nYoutube: http:\/\/bit.ly\/1RaffyTulfoOfficialYoutube\nFacebook: http:\/\/bit.ly\/RaffyTulfoOfficialFacebook\nInstagram: http:\/\/bit.ly\/RaffyTulfoOfficialInstagram\nWebsite: http:\/\/bit.ly\/RaffyTulfoOfficialWebsite\n\nPAALALA: Huwag maniniwala sa ano mang text o tawag na nagpapakilalang staff ng Raffy Tulfo in Action. Ang lahat ng reklamo ay aming hinaharap sa TV5 Media Center lamang (Reliance corner Sheridan Street, Mandaluyong City. Monday-Friday, 9am to 3pm). Ang aming pagtulong ay libre.      \n                                                                                 \nHuwag po kayong magpost ng inyong comments na gusto ninyong makatulong o magtanong kung paano kayo makatulong sa mga complainant\/s na nasa video. Marami na po kaming natatanggap na reklamo tungkol sa mga taong nagbibigay ng maling impormasyon o nagpapanggap na staff ng Raffy Tulfo in Action para makapanloko. Kung nais po ninyong tumulong sa mga taong nasa video, magsadya lamang po kayo o magpadala ng representative sa TV5 Media Center at para personal na iabot sa mismong mga taong gusto ninyong matulungan. Salamat po.",
           "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/M_fA6w5YNTw\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
             "medium": {
-              "url": "https://i.ytimg.com/vi/je_R3gEtDbw/mqdefault.jpg"
+              "url": "https:\/\/i.ytimg.com\/vi\/M_fA6w5YNTw\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/M_fA6w5YNTw\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/M_fA6w5YNTw\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/M_fA6w5YNTw\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
-          }
+          },
+          "channelTitle": "Raffy Tulfo in Action",
+          "tags": [
+            "tulfo",
+            "tulfo 2020",
+            "raffy tulfo in action",
+            "raffy tulfo latest",
+            "tulfo in action 2020",
+            "tulfo in action",
+            "raffy tulfo in action latest",
+            "raffy tulfo in action 2020",
+            "tulfo in action latest",
+            "raffy tulfo 2020",
+            "raffy tulfo latest 2020",
+            "tulfo in action latest 2020",
+            "tulfo latest",
+            "raffy tulfo in action latest 2020",
+            "raffy tulfo action",
+            "tulfo latest 2020"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "ANG VIRAL VIDEO NG MGA PULIS AT NG ISANG EX-ARMY. IDOL RAFFY, INAKSYUNAN!",
+            "description": "Para sa PART 2 at 3, puntahan ang mga links na ito:\nPART 2: https:\/\/youtu.be\/ehdcPGqNfeg\nPART 3: https:\/\/youtu.be\/KxpCB5FqZas\n\n#raffytulfoinaction\nTikTok: http:\/\/bit.ly\/RaffyTulfoOfficialTikTok\nYoutube: http:\/\/bit.ly\/1RaffyTulfoOfficialYoutube\nFacebook: http:\/\/bit.ly\/RaffyTulfoOfficialFacebook\nInstagram: http:\/\/bit.ly\/RaffyTulfoOfficialInstagram\nWebsite: http:\/\/bit.ly\/RaffyTulfoOfficialWebsite\n\nPAALALA: Huwag maniniwala sa ano mang text o tawag na nagpapakilalang staff ng Raffy Tulfo in Action. Ang lahat ng reklamo ay aming hinaharap sa TV5 Media Center lamang (Reliance corner Sheridan Street, Mandaluyong City. Monday-Friday, 9am to 3pm). Ang aming pagtulong ay libre.      \n                                                                                 \nHuwag po kayong magpost ng inyong comments na gusto ninyong makatulong o magtanong kung paano kayo makatulong sa mga complainant\/s na nasa video. Marami na po kaming natatanggap na reklamo tungkol sa mga taong nagbibigay ng maling impormasyon o nagpapanggap na staff ng Raffy Tulfo in Action para makapanloko. Kung nais po ninyong tumulong sa mga taong nasa video, magsadya lamang po kayo o magpadala ng representative sa TV5 Media Center at para personal na iabot sa mismong mga taong gusto ninyong matulungan. Salamat po."
+          },
+          "defaultAudioLanguage": "en"
         },
-        "profilethumbnail": {
-          "default": {
-            "url": "https://yt3.ggpht.com/a/AATXAJx6I2sfiTy2MzzZ3n8_Uq6uCX5TlLQ6nSrpsQ=s88-c-k-c0xffffffff-no-rj-mo"
-          }
+        "contentDetails": {
+          "duration": "PT41M11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "projection": "rectangular"
         },
-        "published_at": "2020-04-20T09:00:15.000Z",
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false
+        },
         "statistics": {
-          "viewCount": "14510473"
-        }
+          "viewCount": "2401028",
+          "likeCount": "43794",
+          "dislikeCount": "5039",
+          "favoriteCount": "0",
+          "commentCount": "24241"
+        },
+        "player": {
+          "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"\/\/www.youtube.com\/embed\/M_fA6w5YNTw\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>"
+        },
+        "channel": [
+          {
+            "id": "UCxhygwqQ1ZMoBGQM2yEcNug",
+            "title": "Raffy Tulfo in Action",
+            "description": "Welcome to the OFFICIAL Youtube channel of Raffy Tulfo! \n\nRaffy Tulfo is a Filipino broadcast journalist based in Mandaluyong City, Philipines. He is a hard-hitting, no-holds-barred commentator on issues pertaining to abuses and injustices committed by people in power against ordinary citizens.\n\nHe is a known champion of the poor. He fights for the downtrodden \u2013 many of whom are laborers \u2013 who flock to his radio show everyday to seek for his help. He is known among his followers as \u201cMr. Action Man\u201d and \u201cIdol Raffy\u201d.\n\nRaffy Tulfo is the main anchor of a long existing top rated radio program WANTED SA RADYO aired on 92.3 FM (Radyo5) and simulcast on OnePH. He also anchors AKSYON SA TANGHALI, a noontime newscast that is aired daily on TV5. The said newscast has a public service segment\u2013 Itimbre mo kay Tulfo\/Ipa-Raffy Mo, that airs and acts on complaints from ordinary citizens.\n\nGet ready to witness the life changing public service in action.",
+            "published_at": "2016-04-20T07:40:52.000Z",
+            "profilethumbnail": {
+              "default": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJzYokM9oNlgCKcUgS0GYkKQqkRQrX7RAAqPMQ=s88-c-k-c0xffffffff-no-rj-mo",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJzYokM9oNlgCKcUgS0GYkKQqkRQrX7RAAqPMQ=s240-c-k-c0xffffffff-no-rj-mo",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJzYokM9oNlgCKcUgS0GYkKQqkRQrX7RAAqPMQ=s800-c-k-c0xffffffff-no-rj-mo",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "profileColor": "#000000",
+            "videoCount": "4463",
+            "viewCount": "5820796295",
+            "subscriberCount": "11300000"
+          }
+        ]
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8\/fc84K5Nc-B499aH1oCZnA3IS9Sg\"",
+        "id": "je_R3gEtDbw",
+        "snippet": {
+          "publishedAt": "2020-04-20T09:00:15.000Z",
+          "channelId": "UC35HKvKYPkri4Grd5KXl3wQ",
+          "title": "LILI's FILM #3 - LISA Dance Performance Video",
+          "description": "Filmed by Anthony King\n\nChoreography by Cheshir Ha\n\nMusic by QUIN, 6LACK - Mushroom Chocolate",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/je_R3gEtDbw\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/je_R3gEtDbw\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/je_R3gEtDbw\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/je_R3gEtDbw\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/je_R3gEtDbw\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Lilifilm Official",
+          "tags": [
+            "BLACKPINK",
+            "\ube14\ub799\ud551\ud06c",
+            "LISA",
+            "\ub9ac\uc0ac",
+            "Lilifilm",
+            "\ub9ac\ub9ac\ud544\ub984",
+            "YG",
+            "\uc548\ubb34\uc601\uc0c1",
+            "Choreography",
+            "Dance Performance Video",
+            "Cheshir Ha",
+            "QUIN",
+            "6LACK",
+            "Mushroom Chocolate"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "LILI's FILM #3 - LISA Dance Performance Video",
+            "description": "Filmed by Anthony King\n\nChoreography by Cheshir Ha\n\nMusic by QUIN, 6LACK - Mushroom Chocolate"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT1M31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "projection": "rectangular"
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false
+        },
+        "statistics": {
+          "viewCount": "14567302",
+          "likeCount": "1280252",
+          "dislikeCount": "27721",
+          "favoriteCount": "0",
+          "commentCount": "118098"
+        },
+        "player": {
+          "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"\/\/www.youtube.com\/embed\/je_R3gEtDbw\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>"
+        },
+        "channel": [
+          {
+            "id": "UC35HKvKYPkri4Grd5KXl3wQ",
+            "title": "Lilifilm Official",
+            "description": "",
+            "published_at": "2018-10-25T05:41:07.000Z",
+            "profilethumbnail": {
+              "default": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJx6I2sfiTy2MzzZ3n8_Uq6uCX5TlLQ6nSrpsQ=s88-c-k-c0xffffffff-no-rj-mo",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJx6I2sfiTy2MzzZ3n8_Uq6uCX5TlLQ6nSrpsQ=s240-c-k-c0xffffffff-no-rj-mo",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJx6I2sfiTy2MzzZ3n8_Uq6uCX5TlLQ6nSrpsQ=s800-c-k-c0xffffffff-no-rj-mo",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "profileColor": "#000000",
+            "videoCount": "8",
+            "viewCount": "66803820",
+            "subscriberCount": "2830000"
+          }
+        ]
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8\/4-BlJ3EX0wSnLC72dZwYAEpeXbU\"",
+        "id": "PDcdQ2Ct3XA",
+        "snippet": {
+          "publishedAt": "2020-04-18T12:51:05.000Z",
+          "channelId": "UCBdHwFIE4AJWSa3Wxdu7bAQ",
+          "title": "FlipTop - Sinio\/Tipsy D vs Jonas\/Lhipkram @ The FlipTop Festival",
+          "description": "The FlipTop Festival After Movie: https:\/\/youtu.be\/sHanaRM7NmY \nFlipTop presents: The FlipTop Festival @ Aseana City Event Grounds, Paranaque City, Metro Manila, Philippines. February 7-8, 2020. Filipino HipHop Festival.\n\n-SINIO\/TIPSY D VS JONAS\/LHIPKRAM-\n\nSubscribe Here! http:\/\/bit.ly\/fliptopsub\nCheck out our top videos! http:\/\/bit.ly\/fliptopTopVideos\n\nWebsite: https:\/\/fliptop.com.phFacebook: https:\/\/www.facebook.com\/fliptop.battleleague\nTwitter: https:\/\/twitter.com\/FlipTop_Battles\n\n#TheFlipTopFestival #Shernan #Poison13 #FlipTop2020 #fliptopbattles\n\nAbout fliptopbattles:\nFlipTop Kru Corp. is a self-produced events and artist management company with its first product in the FlipTop Battle League. The FlipTop Battle League is the Philippines\u2019 first premier \u2013 and the world\u2019s most-viewed \u2013 rap battle league. It is popularly credited for the resurgence and widespread acceptance of hiphop culture in the Philippines since its inception in February 2010, and continues to champion all other hiphop elements in its variety of events and online content. It is home to the country\u2019s top Hiphop talents and houses divisions in the main island groups of Luzon, Visayas, and Mindanao.\nwww.fliptop.com.ph\n\nFlipTop - Sinio\/Tipsy D vs Jonas\/Lhipkram @ The FlipTop Festival\nhttps:\/\/youtu.be\/PDcdQ2Ct3XA\n\nfliptopbattles\nhttps:\/\/www.youtube.com\/fliptopbattles",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/PDcdQ2Ct3XA\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/PDcdQ2Ct3XA\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/PDcdQ2Ct3XA\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/PDcdQ2Ct3XA\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/PDcdQ2Ct3XA\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "fliptopbattles",
+          "tags": [
+            "fliptop",
+            "flip top",
+            "flip top battles",
+            "fliptopbattles",
+            "fliptop battle",
+            "fliptop new",
+            "fliptop latest",
+            "fliptop 2020",
+            "fliptop recent",
+            "fliptop upload",
+            "fliptop content",
+            "new",
+            "latest",
+            "2019",
+            "2020",
+            "recent",
+            "upload",
+            "content",
+            "battle",
+            "rap",
+            "underground",
+            "hiphop",
+            "filipino",
+            "pinoy",
+            "tagalog",
+            "philippines",
+            "pinas",
+            "bulacan",
+            "vs",
+            "verse",
+            "music",
+            "bars",
+            "24",
+            "best",
+            "jokes",
+            "highlights",
+            "speed",
+            "funny",
+            "lines",
+            "comedy",
+            "tiu theater",
+            "anygma",
+            "festival",
+            "the fliptop festival",
+            "performance",
+            "live",
+            "highlight",
+            "movie",
+            "after",
+            "loonie",
+            "free",
+            "sinio",
+            "tipsy d",
+            "jonas",
+            "lhipkram",
+            "tipsy"
+          ],
+          "categoryId": "19",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "FlipTop - Sinio\/Tipsy D vs Jonas\/Lhipkram @ The FlipTop Festival",
+            "description": "The FlipTop Festival After Movie: https:\/\/youtu.be\/sHanaRM7NmY \nFlipTop presents: The FlipTop Festival @ Aseana City Event Grounds, Paranaque City, Metro Manila, Philippines. February 7-8, 2020. Filipino HipHop Festival.\n\n-SINIO\/TIPSY D VS JONAS\/LHIPKRAM-\n\nSubscribe Here! http:\/\/bit.ly\/fliptopsub\nCheck out our top videos! http:\/\/bit.ly\/fliptopTopVideos\n\nWebsite: https:\/\/fliptop.com.phFacebook: https:\/\/www.facebook.com\/fliptop.battleleague\nTwitter: https:\/\/twitter.com\/FlipTop_Battles\n\n#TheFlipTopFestival #Shernan #Poison13 #FlipTop2020 #fliptopbattles\n\nAbout fliptopbattles:\nFlipTop Kru Corp. is a self-produced events and artist management company with its first product in the FlipTop Battle League. The FlipTop Battle League is the Philippines\u2019 first premier \u2013 and the world\u2019s most-viewed \u2013 rap battle league. It is popularly credited for the resurgence and widespread acceptance of hiphop culture in the Philippines since its inception in February 2010, and continues to champion all other hiphop elements in its variety of events and online content. It is home to the country\u2019s top Hiphop talents and houses divisions in the main island groups of Luzon, Visayas, and Mindanao.\nwww.fliptop.com.ph\n\nFlipTop - Sinio\/Tipsy D vs Jonas\/Lhipkram @ The FlipTop Festival\nhttps:\/\/youtu.be\/PDcdQ2Ct3XA\n\nfliptopbattles\nhttps:\/\/www.youtube.com\/fliptopbattles"
+          },
+          "defaultAudioLanguage": "fil"
+        },
+        "contentDetails": {
+          "duration": "PT42M54S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "projection": "rectangular"
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false
+        },
+        "statistics": {
+          "viewCount": "3102785",
+          "likeCount": "67860",
+          "dislikeCount": "4923",
+          "favoriteCount": "0",
+          "commentCount": "15526"
+        },
+        "player": {
+          "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"\/\/www.youtube.com\/embed\/PDcdQ2Ct3XA\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>"
+        },
+        "channel": [
+          {
+            "id": "UCBdHwFIE4AJWSa3Wxdu7bAQ",
+            "title": "fliptopbattles",
+            "description": "",
+            "published_at": "2010-03-09T19:28:21.000Z",
+            "profilethumbnail": {
+              "default": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJykHqRrESCa6A8t6jK7M3TyiLpCs39vt5rW_A=s88-c-k-c0xffffffff-no-rj-mo",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJykHqRrESCa6A8t6jK7M3TyiLpCs39vt5rW_A=s240-c-k-c0xffffffff-no-rj-mo",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJykHqRrESCa6A8t6jK7M3TyiLpCs39vt5rW_A=s800-c-k-c0xffffffff-no-rj-mo",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "profileColor": "#000000",
+            "videoCount": "1072",
+            "viewCount": "1710055742",
+            "subscriberCount": "5240000"
+          }
+        ]
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8\/D9XLfHqUVwqA2r054pVKmGQD79s\"",
+        "id": "2NLEQ3bzyC0",
+        "snippet": {
+          "publishedAt": "2020-04-26T09:52:12.000Z",
+          "channelId": "UCBdHwFIE4AJWSa3Wxdu7bAQ",
+          "title": "FlipTop - Zaito vs Sak Maestro @ The FlipTop Festival",
+          "description": "The FlipTop Festival After Movie: https:\/\/youtu.be\/sHanaRM7NmY \nFlipTop presents: The FlipTop Festival @ Aseana City Event Grounds, Paranaque City, Metro Manila, Philippines. February 7-8, 2020. Filipino HipHop Festival.\n\n-ZAITO VS SAK MAESTRO-\n\nSubscribe Here! http:\/\/bit.ly\/fliptopsub\nCheck out our top videos! http:\/\/bit.ly\/fliptopTopVideos\n\nWebsite: https:\/\/fliptop.com.phFacebook: https:\/\/www.facebook.com\/fliptop.battleleague\nTwitter: https:\/\/twitter.com\/FlipTop_Battles\n\n#TheFlipTopFestival #Zaito #SakMaestro #FlipTop2020 #fliptopbattles\n\nAbout fliptopbattles:\nFlipTop Kru Corp. is a self-produced events and artist management company with its first product in the FlipTop Battle League. The FlipTop Battle League is the Philippines\u2019 first premier \u2013 and the world\u2019s most-viewed \u2013 rap battle league. It is popularly credited for the resurgence and widespread acceptance of hiphop culture in the Philippines since its inception in February 2010, and continues to champion all other hiphop elements in its variety of events and online content. It is home to the country\u2019s top Hiphop talents and houses divisions in the main island groups of Luzon, Visayas, and Mindanao.\nwww.fliptop.com.ph\n\nFlipTop - Zaito vs Sak Maestro @ The FlipTop Festival\nhttps:\/\/youtu.be\/2NLEQ3bzyC0\n\nfliptopbattles\nhttps:\/\/www.youtube.com\/fliptopbattles",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/2NLEQ3bzyC0\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/2NLEQ3bzyC0\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/2NLEQ3bzyC0\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/2NLEQ3bzyC0\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/2NLEQ3bzyC0\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "fliptopbattles",
+          "tags": [
+            "fliptop",
+            "flip top",
+            "flip top battles",
+            "fliptopbattles",
+            "fliptop battle",
+            "fliptop new",
+            "fliptop latest",
+            "fliptop 2020",
+            "fliptop recent",
+            "fliptop upload",
+            "fliptop content",
+            "new",
+            "latest",
+            "2019",
+            "2020",
+            "recent",
+            "upload",
+            "content",
+            "battle",
+            "rap",
+            "underground",
+            "hiphop",
+            "filipino",
+            "pinoy",
+            "tagalog",
+            "philippines",
+            "pinas",
+            "cebuano",
+            "bulacan",
+            "vs",
+            "verse",
+            "music",
+            "bars",
+            "24",
+            "best",
+            "jokes",
+            "highlights",
+            "speed",
+            "funny",
+            "lines",
+            "comedy",
+            "tiu theater",
+            "anygma",
+            "festival",
+            "the fliptop festival",
+            "performance",
+            "live",
+            "highlight",
+            "movie",
+            "after",
+            "loonie",
+            "free",
+            "3gs",
+            "zaito",
+            "sak",
+            "maestro",
+            "sinio"
+          ],
+          "categoryId": "19",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "FlipTop - Zaito vs Sak Maestro @ The FlipTop Festival",
+            "description": "The FlipTop Festival After Movie: https:\/\/youtu.be\/sHanaRM7NmY \nFlipTop presents: The FlipTop Festival @ Aseana City Event Grounds, Paranaque City, Metro Manila, Philippines. February 7-8, 2020. Filipino HipHop Festival.\n\n-ZAITO VS SAK MAESTRO-\n\nSubscribe Here! http:\/\/bit.ly\/fliptopsub\nCheck out our top videos! http:\/\/bit.ly\/fliptopTopVideos\n\nWebsite: https:\/\/fliptop.com.phFacebook: https:\/\/www.facebook.com\/fliptop.battleleague\nTwitter: https:\/\/twitter.com\/FlipTop_Battles\n\n#TheFlipTopFestival #Zaito #SakMaestro #FlipTop2020 #fliptopbattles\n\nAbout fliptopbattles:\nFlipTop Kru Corp. is a self-produced events and artist management company with its first product in the FlipTop Battle League. The FlipTop Battle League is the Philippines\u2019 first premier \u2013 and the world\u2019s most-viewed \u2013 rap battle league. It is popularly credited for the resurgence and widespread acceptance of hiphop culture in the Philippines since its inception in February 2010, and continues to champion all other hiphop elements in its variety of events and online content. It is home to the country\u2019s top Hiphop talents and houses divisions in the main island groups of Luzon, Visayas, and Mindanao.\nwww.fliptop.com.ph\n\nFlipTop - Zaito vs Sak Maestro @ The FlipTop Festival\nhttps:\/\/youtu.be\/2NLEQ3bzyC0\n\nfliptopbattles\nhttps:\/\/www.youtube.com\/fliptopbattles"
+          },
+          "defaultAudioLanguage": "fil"
+        },
+        "contentDetails": {
+          "duration": "PT18M34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "projection": "rectangular"
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false
+        },
+        "statistics": {
+          "viewCount": "877668",
+          "likeCount": "25856",
+          "dislikeCount": "2175",
+          "favoriteCount": "0",
+          "commentCount": "4268"
+        },
+        "player": {
+          "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"\/\/www.youtube.com\/embed\/2NLEQ3bzyC0\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>"
+        },
+        "channel": [
+          {
+            "id": "UCBdHwFIE4AJWSa3Wxdu7bAQ",
+            "title": "fliptopbattles",
+            "description": "",
+            "published_at": "2010-03-09T19:28:21Z",
+            "profilethumbnail": {
+              "default": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJykHqRrESCa6A8t6jK7M3TyiLpCs39vt5rW_A=s88-c-k-c0xffffffff-no-rj-mo",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJykHqRrESCa6A8t6jK7M3TyiLpCs39vt5rW_A=s240-c-k-c0xffffffff-no-rj-mo",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJykHqRrESCa6A8t6jK7M3TyiLpCs39vt5rW_A=s800-c-k-c0xffffffff-no-rj-mo",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "profileColor": "#000000",
+            "videoCount": "1072",
+            "viewCount": "1710055742",
+            "subscriberCount": "5240000"
+          }
+        ]
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8\/YY9-GByd0Ms3rPpZHqqvW9-Yz7g\"",
+        "id": "NwpZkD0C5MM",
+        "snippet": {
+          "publishedAt": "2020-04-20T13:00:11.000Z",
+          "channelId": "UCKL5hAuzgFQsyrsQKgU0Qng",
+          "title": "Magpakailanman: Married man lives with his two wives | Full Episode",
+          "description": "While George (Luis Alandy) and Francia (Glaiza De Castro) are living happily in their marriage, their once peaceful life together gets derailed upon the arrival of the former's first love, Oli (Pauleen Luna). Soon after, George decides to let Oli stay with them after finding out that the latter is getting abused by her partner. Will Francia be able to keep up with this kind of setup\u2014living with her husband and his first love under one roof?\n\nWatch this video and more exclusive full episodes of 'Magpakailanman' on https:\/\/bit.ly\/2XJyJoG\n\nWatch episodes of 'Magpakailanman' every Saturday evening on GMA Network, hosted by Ms. Mel Tiangco. This episode, \"Magkasalo Sa Pugad\" features celebrity guests Luis Alandy, Glaiza De Castro, Pauleen Luna, and Gilleth Sandico. #Magpakailanman #MPKFullEpisode\n\n--------------\nSubscribe to the GMA Network channel! - http:\/\/goo.gl\/oYE4Dn\n\nTo our #KapusoAbroad, you can watch the latest episodes on GMA Pinoy TV! For more information, visit http:\/\/www.gmapinoytv.com\n\n\nVisit the GMA Network Portal! \nhttp:\/\/www.gmanetwork.com\n\n\nConnect with us on:\nFacebook: http:\/\/www.facebook.com\/GMANetwork\nTwitter: https:\/\/twitter.com\/GMANetwork\nInstagram: http:\/\/instagram.com\/GMANetwork",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/NwpZkD0C5MM\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/NwpZkD0C5MM\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/NwpZkD0C5MM\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/NwpZkD0C5MM\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/NwpZkD0C5MM\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "GMA Network",
+          "tags": [
+            "GMA",
+            "GMA Network",
+            "GMA Full Episodes",
+            "Drama",
+            "Magpakailanman",
+            "Magpakailanman GMA",
+            "Magpakailanman full episode",
+            "Magpakailanman latest episode",
+            "Mel Tiangco",
+            "Magpakailanman Magkasalo sa Pugad full episode",
+            "Magpakailanman Magkasalo sa Pugad full movie",
+            "Magpakailanman Magkasalo sa Pugad",
+            "Magkasalo sa Pugad",
+            "Luis Alandy",
+            "Glaiza De Castro",
+            "Pauleen Luna",
+            "Gilleth Sandico",
+            "married man lives with two wives",
+            "married man",
+            "two wives",
+            "magpakailanman pauleen luna",
+            "magpakailanman glaiza de castro"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Magpakailanman: Married man lives with his two wives | Full Episode",
+            "description": "While George (Luis Alandy) and Francia (Glaiza De Castro) are living happily in their marriage, their once peaceful life together gets derailed upon the arrival of the former's first love, Oli (Pauleen Luna). Soon after, George decides to let Oli stay with them after finding out that the latter is getting abused by her partner. Will Francia be able to keep up with this kind of setup\u2014living with her husband and his first love under one roof?\n\nWatch this video and more exclusive full episodes of 'Magpakailanman' on https:\/\/bit.ly\/2XJyJoG\n\nWatch episodes of 'Magpakailanman' every Saturday evening on GMA Network, hosted by Ms. Mel Tiangco. This episode, \"Magkasalo Sa Pugad\" features celebrity guests Luis Alandy, Glaiza De Castro, Pauleen Luna, and Gilleth Sandico. #Magpakailanman #MPKFullEpisode\n\n--------------\nSubscribe to the GMA Network channel! - http:\/\/goo.gl\/oYE4Dn\n\nTo our #KapusoAbroad, you can watch the latest episodes on GMA Pinoy TV! For more information, visit http:\/\/www.gmapinoytv.com\n\n\nVisit the GMA Network Portal! \nhttp:\/\/www.gmanetwork.com\n\n\nConnect with us on:\nFacebook: http:\/\/www.facebook.com\/GMANetwork\nTwitter: https:\/\/twitter.com\/GMANetwork\nInstagram: http:\/\/instagram.com\/GMANetwork"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT59M20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "projection": "rectangular"
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false
+        },
+        "statistics": {
+          "viewCount": "1791684",
+          "likeCount": "12329",
+          "dislikeCount": "2106",
+          "favoriteCount": "0",
+          "commentCount": "1159"
+        },
+        "player": {
+          "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"\/\/www.youtube.com\/embed\/NwpZkD0C5MM\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>"
+        },
+        "channel": [
+          {
+            "id": "UCKL5hAuzgFQsyrsQKgU0Qng",
+            "title": "GMA Network",
+            "description": "The OFFICIAL YouTube channel of GMA Network.",
+            "published_at": "2006-11-20T08:10:55.000Z",
+            "profilethumbnail": {
+              "default": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJywsCDJNZK2iZVoVLQNqBfLM84kJ2e-p3empg=s88-c-k-c0xffffffff-no-rj-mo",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJywsCDJNZK2iZVoVLQNqBfLM84kJ2e-p3empg=s240-c-k-c0xffffffff-no-rj-mo",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJywsCDJNZK2iZVoVLQNqBfLM84kJ2e-p3empg=s800-c-k-c0xffffffff-no-rj-mo",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "profileColor": "#000000",
+            "videoCount": "85385",
+            "viewCount": "16252026932",
+            "subscriberCount": "16200000"
+          }
+        ]
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8\/VuviGzZGdr5tqCIqqsAzH3crA9I\"",
+        "id": "HgurSLSV_q4",
+        "snippet": {
+          "publishedAt": "2020-04-24T16:50:01.000Z",
+          "channelId": "UCqf2gzmKtH3PaAbt-qgFFsw",
+          "title": "Can Big Ed Trust Rose? | 90 Day Fianc\u00e9: Before The 90 Days",
+          "description": "Ed still hasn't asked Rose if she knew her sister asked Ed for money.\n\nStream Full Episodes of 90 Day Fianc\u00e9: Before The 90 Days:\nhttps:\/\/www.tlc.com\/tv-shows\/90-day-fiance-before-the-90-days\/\n\nSubscribe to TLC:\nhttp:\/\/bit.ly\/SubscribeTLC\n\nJoin us on Facebook:\nhttps:\/\/www.facebook.com\/90DayFiance\/\nhttps:\/\/www.facebook.com\/TLC\n\nFollow Us on Twitter:\nhttps:\/\/twitter.com\/TLC\n\nWe're on Instagram!\nhttps:\/\/instagram.com\/TLC",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/HgurSLSV_q4\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/HgurSLSV_q4\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/HgurSLSV_q4\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/HgurSLSV_q4\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/HgurSLSV_q4\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TLC",
+          "tags": [
+            "tlc",
+            "tlc shows",
+            "tlc full episodes",
+            "90 Day Fianc\u00e9",
+            "Before the 90 days",
+            "reality tv series",
+            "foreign love",
+            "international dating",
+            "mail order bride",
+            "marriage tv show",
+            "green card marriage",
+            "visa",
+            "darcey and tom",
+            "stephanie and erika",
+            "ed and rosemarie",
+            "geoffrey and varya",
+            "avery and ash",
+            "lisa and usman",
+            "sojaboy",
+            "david and lana"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Can Big Ed Trust Rose? | 90 Day Fianc\u00e9: Before The 90 Days",
+            "description": "Ed still hasn't asked Rose if she knew her sister asked Ed for money.\n\nStream Full Episodes of 90 Day Fianc\u00e9: Before The 90 Days:\nhttps:\/\/www.tlc.com\/tv-shows\/90-day-fiance-before-the-90-days\/\n\nSubscribe to TLC:\nhttp:\/\/bit.ly\/SubscribeTLC\n\nJoin us on Facebook:\nhttps:\/\/www.facebook.com\/90DayFiance\/\nhttps:\/\/www.facebook.com\/TLC\n\nFollow Us on Twitter:\nhttps:\/\/twitter.com\/TLC\n\nWe're on Instagram!\nhttps:\/\/instagram.com\/TLC"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "NZ",
+              "TR"
+            ]
+          },
+          "projection": "rectangular"
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false
+        },
+        "statistics": {
+          "viewCount": "1719004",
+          "likeCount": "18394",
+          "dislikeCount": "1121",
+          "favoriteCount": "0",
+          "commentCount": "5624"
+        },
+        "player": {
+          "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"\/\/www.youtube.com\/embed\/HgurSLSV_q4\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>"
+        },
+        "channel": [
+          {
+            "id": "UCqf2gzmKtH3PaAbt-qgFFsw",
+            "title": "TLC",
+            "description": "TLC is television network dedicated to covering \"real life\" reality and finding fun and beauty in the unexpected!",
+            "published_at": "2006-01-07T08:25:28Z",
+            "profilethumbnail": {
+              "default": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJy16Mry7WgSAM3jiGY80pjZ1gb9kSWuux7Itw=s88-c-k-c0xffffffff-no-rj-mo",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJy16Mry7WgSAM3jiGY80pjZ1gb9kSWuux7Itw=s240-c-k-c0xffffffff-no-rj-mo",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJy16Mry7WgSAM3jiGY80pjZ1gb9kSWuux7Itw=s800-c-k-c0xffffffff-no-rj-mo",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "profileColor": "#000000",
+            "videoCount": "7019",
+            "viewCount": "4255258152",
+            "subscriberCount": "5370000"
+          }
+        ]
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8\/Drgq8X277IlWfHbN2r0llRVMwIA\"",
+        "id": "Qo3YV1ZKDHs",
+        "snippet": {
+          "publishedAt": "2020-04-20T00:30:02.000Z",
+          "channelId": "UCBXNpF6k2n8dsI6nBH8q4sQ",
+          "title": "TYPES OF STUDENTS ON PICTURE DAY || Funny Situations At School by 123 GO!",
+          "description": "One more year has come and gone, which means it\u2019s yet another picture day!\nIt\u2019s all about looking your best, inside and out, right?\n\nIt\u2019s time to comb your hair and give your brightest smile.\nAnd don\u2019t forget to say, Cheese!\n\nHow do you prepare for picture day? Be sure to share this with your classmates and don\u2019t forget to subscribe to 123 GO! YouTube page for more hilarious videos like this one!\n\n#123GO #funny #school\n\nMusic by Epidemic Sound: https:\/\/www.epidemicsound.com\/\nStock materials: https:\/\/www.depositphotos.com https:\/\/www.shutterstock.com",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/Qo3YV1ZKDHs\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/Qo3YV1ZKDHs\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/Qo3YV1ZKDHs\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/Qo3YV1ZKDHs\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https:\/\/i.ytimg.com\/vi\/Qo3YV1ZKDHs\/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "123 GO!",
+          "tags": [
+            "DIY",
+            "craft",
+            "crafts",
+            "prank",
+            "pranks",
+            "challenge",
+            "challenges",
+            "fun",
+            "funny",
+            "123GO!",
+            "123 go",
+            "123go",
+            "friends",
+            "friendly",
+            "tutorial",
+            "howto",
+            "how to"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "TYPES OF STUDENTS ON PICTURE DAY || Funny Situations At School by 123 GO!",
+            "description": "One more year has come and gone, which means it\u2019s yet another picture day!\nIt\u2019s all about looking your best, inside and out, right?\n\nIt\u2019s time to comb your hair and give your brightest smile.\nAnd don\u2019t forget to say, Cheese!\n\nHow do you prepare for picture day? Be sure to share this with your classmates and don\u2019t forget to subscribe to 123 GO! YouTube page for more hilarious videos like this one!\n\n#123GO #funny #school\n\nMusic by Epidemic Sound: https:\/\/www.epidemicsound.com\/\nStock materials: https:\/\/www.depositphotos.com https:\/\/www.shutterstock.com"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT8M20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "projection": "rectangular"
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false
+        },
+        "statistics": {
+          "viewCount": "8275660",
+          "likeCount": "75548",
+          "dislikeCount": "9773",
+          "favoriteCount": "0",
+          "commentCount": "6464"
+        },
+        "player": {
+          "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"\/\/www.youtube.com\/embed\/Qo3YV1ZKDHs\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>"
+        },
+        "channel": [
+          {
+            "id": "UCBXNpF6k2n8dsI6nBH8q4sQ",
+            "title": "123 GO!",
+            "description": "DIY, life hacks, challenges, beauty tips, myth busting \u2013 we make videos about all the stuff that\u2019s trending right here and right now!\n\nWe\u2019re always in search of new and exciting ways to entertain, educate, and develop. \n\nAnd we\u2019re not going to stop until we conquer the whole world ;)\n\n\nDownload our Android mobile app at Google Play! http:\/\/bit.ly\/2P286sr\n\nFor brand partnership enquires: brands@thesoul-publishing.com",
+            "published_at": "2019-01-17T08:02:49.000Z",
+            "profilethumbnail": {
+              "default": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJyQUg0n8Nig7ghUK1xZftdBwXtC-qljljIsYw=s88-c-k-c0xffffffff-no-rj-mo",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJyQUg0n8Nig7ghUK1xZftdBwXtC-qljljIsYw=s240-c-k-c0xffffffff-no-rj-mo",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJyQUg0n8Nig7ghUK1xZftdBwXtC-qljljIsYw=s800-c-k-c0xffffffff-no-rj-mo",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "profileColor": "#000000",
+            "videoCount": "98",
+            "viewCount": "1871543723",
+            "subscriberCount": "6480000"
+          }
+        ]
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8\/JK5NEl70JBqyyszHYGNdDDbKMMY\"",
+        "id": "-Hhll8q_igg",
+        "snippet": {
+          "publishedAt": "2020-04-24T14:17:55.000Z",
+          "channelId": "UCMZ343FCzDO3mfX9VERi_PQ",
+          "title": "ZOOMUSTAHAN AFTER 40 DAYS OF ECQ | The Gold Squad",
+          "description": "The squad finally had a long kumustahan as a group after 40 days of not physically seeing each other due to ECQ. As usual they are as happy and funny with all their quarantine stories and a semi-fail attempt to perform a #StayHomeWithMe dance number for the squadmates! \n\nSubscribe to The Gold Squad channel! - http:\/\/bit.ly\/TheGoldSquad\n\nVisit our official website! \nhttp:\/\/entertainment.abs-cbn.com\nhttp:\/\/www.push.com.ph\n\nWatch the full episodes of Kadenang Ginto on TFC.TV:\nhttp:\/\/bit.ly\/KadenangGinto-TFCTV\nand on iWant for Philippine viewers:\nhttp:\/\/bit.ly\/KadenangGinto-iWant\n\nFacebook: http:\/\/www.facebook.com\/DreamscapePH\n\nTwitter: \nhttps:\/\/twitter.com\/DreamscapePH\n\nInstagram: https:\/\/www.instagram.com\/dreamscapeph\n\n#TheGoldSquad\n#WithMe",
+          "thumbnails": {
+            "default": {
+              "url": "https:\/\/i.ytimg.com\/vi\/-Hhll8q_igg\/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https:\/\/i.ytimg.com\/vi\/-Hhll8q_igg\/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https:\/\/i.ytimg.com\/vi\/-Hhll8q_igg\/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https:\/\/i.ytimg.com\/vi\/-Hhll8q_igg\/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "The Gold Squad",
+          "tags": [
+            "The Gold Squad",
+            "Andrea Brillantes",
+            "Seth Fedelin",
+            "Francine Diaz",
+            "Kyle Echarri",
+            "Kadenang Ginto",
+            "Squadmates",
+            "TGS",
+            "SethDrea",
+            "KyCine",
+            "Kadenang Ginto cast",
+            "Francine",
+            "Kyle",
+            "Seth",
+            "Andrea",
+            "Vlogs",
+            "YT0psChay",
+            "April 24 2020",
+            "20200424online",
+            "The Gold Squad ZOOM",
+            "ZOOM call with The Gold Squad",
+            "Gold Squad ecq",
+            "Enhanced Community Quaratine",
+            "Zoomustahan",
+            "Gold Squad dancing",
+            "Quarantine Stories",
+            "Kyle and Chin",
+            "Blythe Seth",
+            "Gold Squad purple hearts"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "ZOOMUSTAHAN AFTER 40 DAYS OF ECQ | The Gold Squad",
+            "description": "The squad finally had a long kumustahan as a group after 40 days of not physically seeing each other due to ECQ. As usual they are as happy and funny with all their quarantine stories and a semi-fail attempt to perform a #StayHomeWithMe dance number for the squadmates! \n\nSubscribe to The Gold Squad channel! - http:\/\/bit.ly\/TheGoldSquad\n\nVisit our official website! \nhttp:\/\/entertainment.abs-cbn.com\nhttp:\/\/www.push.com.ph\n\nWatch the full episodes of Kadenang Ginto on TFC.TV:\nhttp:\/\/bit.ly\/KadenangGinto-TFCTV\nand on iWant for Philippine viewers:\nhttp:\/\/bit.ly\/KadenangGinto-iWant\n\nFacebook: http:\/\/www.facebook.com\/DreamscapePH\n\nTwitter: \nhttps:\/\/twitter.com\/DreamscapePH\n\nInstagram: https:\/\/www.instagram.com\/dreamscapeph\n\n#TheGoldSquad\n#WithMe"
+          }
+        },
+        "contentDetails": {
+          "duration": "PT19M22S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "projection": "rectangular"
+        },
+        "status": {
+          "uploadStatus": "processed",
+          "privacyStatus": "public",
+          "license": "youtube",
+          "embeddable": true,
+          "publicStatsViewable": true,
+          "madeForKids": false
+        },
+        "statistics": {
+          "viewCount": "306938",
+          "likeCount": "21469",
+          "dislikeCount": "198",
+          "favoriteCount": "0",
+          "commentCount": "2541"
+        },
+        "player": {
+          "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"\/\/www.youtube.com\/embed\/-Hhll8q_igg\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>"
+        },
+        "channel": [
+          {
+            "id": "UCMZ343FCzDO3mfX9VERi_PQ",
+            "title": "The Gold Squad",
+            "description": "\"Kadenang Ginto,\"\" is another compelling story about a family that glimmers with love but is tainted by hatred.",
+            "published_at": "2018-09-28T09:05:25.000Z",
+            "profilethumbnail": {
+              "default": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJzKsEstoVKBdh5StOedssAlxJghhuSPFF90=s88-c-k-c0xffffffff-no-rj-mo",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJzKsEstoVKBdh5StOedssAlxJghhuSPFF90=s240-c-k-c0xffffffff-no-rj-mo",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https:\/\/yt3.ggpht.com\/a\/AATXAJzKsEstoVKBdh5StOedssAlxJghhuSPFF90=s800-c-k-c0xffffffff-no-rj-mo",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "profileColor": "#000000",
+            "videoCount": "101",
+            "viewCount": "162919112",
+            "subscriberCount": "2080000"
+          }
+        ]
       }
     ]
   },
