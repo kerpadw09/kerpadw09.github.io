@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Makati",
+        "totalSales": 5000,
+        "changePercent": 20,
+        "changeType": "increase"
+    },
+    {
+        "name": "BGC Taguig",
+        "totalSales": 4000,
+        "changePercent": 10.52,
+        "changeType": "increase"
+    },
+    {
+        "name": "Mall of Asia, Pasay",
+        "totalSales": 3000,
+        "changePercent": 8.39,
+        "changeType": "increase"
+    },
+    {
+        "name": "Quezon City",
+        "totalSales": 2000,
+        "changePercent": 5,
+        "changeType": "increase"
+    },
+    {
+        "name": "Greenhills",
+        "totalSales": 1000,
+        "changePercent": 2,
+        "changeType": "increase"
+    }
+]
