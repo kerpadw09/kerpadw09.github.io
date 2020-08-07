@@ -21,7 +21,7 @@
         "name": "Quezon City",
         "totalSales": 2000,
         "changePercent": 5,
-        "changeType": "increase"
+        "changeType": "decrease"
     },
     {
         "name": "Greenhills",

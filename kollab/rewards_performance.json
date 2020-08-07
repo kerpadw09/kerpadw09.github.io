@@ -22,7 +22,7 @@
         "name": "Reward 4",
         "totalSales": 2000,
         "changePercent": 5,
-        "changeType": "increase"
+        "changeType": "decrease"
     },
     {
         "name": "Reward 5",
