@@ -1,0 +1,27 @@
+{
+    "sales": {
+        "lifetime": 175000,
+        "revenue": 170000,
+        "average_order_value": 1000,
+        "change_percent": 20,
+        "change_type": "increase"
+    },
+    "engagement": {
+        "lifetime_sms": 285,
+        "daily_average": 57,
+        "change_percent": 20,
+        "change_type": "decrease"
+    },
+    "acquisition": {
+        "registered_users": 285,
+        "daily_average": 57,
+        "change_percent": 20,
+        "change_type": "increase"
+    },
+    "rewards_program": {
+        "redeemed": 175000,
+        "issued": 175000,
+        "change_percent": 20,
+        "change_type": "increase"
+    }
+}
